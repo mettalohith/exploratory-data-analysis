@@ -196,7 +196,7 @@ This project demonstrates practical skills in:
 
 # 👨‍💻 Author
 
-**Developed by:** **Sai Akshaya**
+**Developed by:** **Metta Lohith**
 
 Data Science Enthusiast • Python Developer • Machine Learning Learner
 
